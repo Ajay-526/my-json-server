@@ -1,0 +1,20 @@
+{
+  "message": "EKYCs fetched successfully",
+  "status": "success",
+  "data": {
+    "p2pusers": [
+      {
+        "user_id": "101",
+        "nickname": "ajay"
+      },
+      {
+        "user_id": "102",
+        "nickname": "kumar"
+      },
+      {
+        "user_id": "103",
+        "nickname": "kiran"
+      }
+    ]
+  }
+}
